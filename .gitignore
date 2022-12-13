@@ -134,3 +134,5 @@ app.*.symbols
 *.g.dart
 *.freezed.dart
 *.mocks.dart
+
+.metadata
